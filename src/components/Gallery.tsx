@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export default function Gallery() {
   const photos = [
-    { src: '/images/photo1.jpg', alt: '사진 1', rotate: '-3deg' },
+    { src: '/images/photo1.png', alt: '사진 1', rotate: '-3deg' },
     { src: '/images/photo2.jpg', alt: '사진 2', rotate: '2deg' },
     { src: '/images/photo3.jpg', alt: '사진 3', rotate: '-1deg' },
   ]
